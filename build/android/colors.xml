@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Thu, 27 Oct 2022 15:44:53 GMT
+-->
+<resources>
+  <color name="color_base_black10">#1a000000</color>
+  <color name="color_base_black20">#33000000</color>
+  <color name="color_base_black30">#4d000000</color>
+  <color name="color_base_black50">#80000000</color>
+  <color name="color_base_black60">#99000000</color>
+  <color name="color_base_black70">#b3000000</color>
+  <color name="color_base_black80">#cc000000</color>
+  <color name="color_base_cream">#fff4f2f1</color>
+  <color name="color_base_darkish">#ff2b2a2a</color>
+  <color name="color_base_deepred">#ff710923</color>
+  <color name="color_base_green">#ff1ea888</color>
+  <color name="color_base_lightred">#fffdafaf</color>
+  <color name="color_base_mediumred">#fffb666a</color>
+  <color name="color_base_yellow">#ffedc54d</color>
+  <color name="color_base_white025">#06ffffff</color>
+  <color name="color_base_white10">#1affffff</color>
+  <color name="color_base_white15">#26ffffff</color>
+  <color name="color_base_white20">#33ffffff</color>
+  <color name="color_base_white25">#40ffffff</color>
+  <color name="color_base_white30">#4dffffff</color>
+  <color name="color_base_white50">#80ffffff</color>
+  <color name="color_base_white60">#99ffffff</color>
+  <color name="color_base_white70">#b3ffffff</color>
+  <color name="color_base_white80">#ccffffff</color>
+  <color name="color_base_white90">#e6ffffff</color>
+  <color name="color_base_white100">#ff000000</color>
+  <color name="color_font_base">#fffdafaf</color>
+  <color name="color_font_secondary">#ff710923</color>
+  <color name="color_font_tertiary">#26ffffff</color>
+  
+</resources>

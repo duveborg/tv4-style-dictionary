@@ -1,0 +1,84 @@
+{
+  "color": {
+    "base": {
+      "black10": {
+        "value": "rgba(0, 0, 0, 0.1)"
+      },
+      "black20": {
+        "value": "rgba(0, 0, 0, 0.2)"
+      },
+      "black30": {
+        "value": "rgba(0, 0, 0, 0.3)"
+      },
+      "black50": {
+        "value": "rgba(0, 0, 0, 0.5)"
+      },
+      "black60": {
+        "value": "rgba(0, 0, 0, 0.6)"
+      },
+      "black70": {
+        "value": "rgba(0, 0, 0, 0.7)"
+      },
+      "black80": {
+        "value": "rgba(0, 0, 0, 0.8)"
+      },
+      "cream": {
+        "value": "#F4F2F1"
+      },
+      "darkish": {
+        "value": "#2B2A2A"
+      },
+      "deepred": {
+        "value": "#710923"
+      },
+      "green": {
+        "value": "#1EA888"
+      },
+      "lightred": {
+        "value": "#FDAFAF"
+      },
+      "mediumred": {
+        "value": "#FB666A"
+      },
+      "yellow": {
+        "value": "#EDC54D"
+      },
+      "white025": {
+        "value": "rgba(255, 255, 255, 0.025)"
+      },
+      "white10": {
+        "value": "rgba(255, 255, 255, 0.1)"
+      },
+      "white15": {
+        "value": "rgba(255, 255, 255, 0.15)"
+      },
+      "white20": {
+        "value": "rgba(255, 255, 255, 0.2)"
+      },
+      "white25": {
+        "value": "rgba(255, 255, 255, 0.25)"
+      },
+      "white30": {
+        "value": "rgba(255, 255, 255, 0.3)"
+      },
+      "white50": {
+        "value": "rgba(255, 255, 255, 0.5)"
+      },
+      "white60": {
+        "value": "rgba(255, 255, 255, 0.6)"
+      },
+      "white70": {
+        "value": "rgba(255, 255, 255, 0.7)"
+      },
+      "white80": {
+        "value": "rgba(255, 255, 255, 0.8)"
+      },
+      "white90": {
+        "value": "rgba(255, 255, 255, 0.9)"
+      },
+      "white100": {
+        "value": "#fff }"
+      }
+    }
+  }
+}
