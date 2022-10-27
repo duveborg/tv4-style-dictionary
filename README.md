@@ -1,3 +1,5 @@
 # To test
 
-style-dictionary build
+`npm install -g style-dictionary`
+
+`style-dictionary build`
